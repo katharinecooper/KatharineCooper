@@ -1,5 +1,5 @@
 ### About Me
-# I'm a Junior at the University of Denver majoring in Business Analytics with a minor in Business Ethics and Legal Studies.
+#### I'm a Junior at the University of Denver majoring in Business Analytics with a minor in Business Ethics and Legal Studies.
 
 <!--
 **katicooper/KatiCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
