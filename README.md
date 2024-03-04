@@ -7,7 +7,7 @@ Hi, welcome to my portfolio! My name is Katharine Cooper. I'm from Bainbridge Is
 
 Below are links to some folders!
 
-|| [Skills](Skills/Skills.md) || [Work Examples](WorkExamples/WorkExamples.md) || [Work Experience](WorkExperience/WorkExperience) || 
+|| [Skills](Skills/Skills.md) || [Work Examples](WorkExamples/WorkExamples.md) || [Work Experience](WorkExperience/WorkExperience.md) || 
 <!--
 **katicooper/KatiCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
