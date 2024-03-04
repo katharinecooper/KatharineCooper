@@ -1,5 +1,11 @@
+# Kati Cooper
+### Major: Business Information & Analytics
+### Minor: Business Ethics and Legal Studies
+#### katharine.cooper001@gmail.com || [Resume]() || [LinkedIn](https://www.linkedin.com/in/katharine-cooper/)
 ### About Me
-#### I'm a Junior at the University of Denver majoring in Business Analytics with a minor in Business Ethics and Legal Studies.
+Hi, welcome to my portfolio! My name is Kati Cooper. I'm from Bainbridge Island, Washington (a town just west of Seattle). I'm a junior at the University of Denver majoring in Business Information & Analytics. Currently, I'm the VP of New Member Education for Delta Zeta and the treasurer for DU's Club Gymnastics team.
+
+Below are links to some other folders!
 
 <!--
 **katicooper/KatiCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
