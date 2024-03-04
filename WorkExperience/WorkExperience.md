@@ -1,1 +1,2 @@
-Currently, I work as a part-time gymnastic coach. I've done gymnastics since I was 5 years old and have worked at the gym for about 6 years.
+Currently, I work as a part-time gymnastic coach. I've done gymnastics since I was 5 years old and have worked at the gym for about 6 years. Although I haven't used or learned any technical skills from this job, I have gained many soft skills such as communication, time management, conflict resolution, leadership, problem-solving, and empathy. 
+![IMG_1862](https://github.com/katharinecooper/KatharineCooper/assets/123204330/07912d19-d9b4-491f-8f50-f106819cd02f)
