@@ -14,5 +14,4 @@ For the course project in this class, we combined what we learned in R, Tableau,
 
 [Carbon Dioxide Data Analysis Project](CarbonDioxiddDataAnalysisProject.pdf)
 
-### Database Management Systems
-In this class, we made a database
+
